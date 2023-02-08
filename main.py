@@ -1,1 +1,0 @@
-print("Çalışıyo ilk adım tamamdır knk :)")
